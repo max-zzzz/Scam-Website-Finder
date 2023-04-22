@@ -9,3 +9,6 @@ then put the .txt file in a folder
 4. If everything is correct, it will ask you for keywords to filter out websites, to find some scam websites I recommend using "microsoft,support,windows,247,tech,apple" and so on
 
 It will now generate and open an html file with a list of the links, at the top is also a button which chooses websites randomly.
+
+Preview: ![image](https://user-images.githubusercontent.com/131541159/233792685-f629c161-e25a-4e60-8dc3-ac4eda9d932f.png)
+
