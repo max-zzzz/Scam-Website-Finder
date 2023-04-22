@@ -14,6 +14,8 @@ I have found a couple pop-up scams and mostly phishing scams with this tool
 
 (You may want to use a VPN, especially if you're not located in the US)
 
+I hope you like it! Please let me know if it helped you :)
+
 Preview: ![image](https://user-images.githubusercontent.com/131541159/233792685-f629c161-e25a-4e60-8dc3-ac4eda9d932f.png)
 
 ![image](https://user-images.githubusercontent.com/131541159/233792922-03079405-31f9-4f4a-b4c8-196aaebf5bf1.png)
