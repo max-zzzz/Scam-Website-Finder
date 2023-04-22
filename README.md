@@ -2,7 +2,7 @@
 Tool to find newly registered potential scam websites
 
 
-1. Go to https://www.whoisdownload.com/newly-registered-domains (or any kind of nrd website e.g. https://nrd-list.com/downloads/)  and download any .zip file from the last 4 days with tons of newly registered domains
+1. Go to https://www.whoisdownload.com/newly-registered-domains (or any kind of nrd website e.g. https://nrd-list.com/downloads/, but youre gonna have to change the file name to "domain-names.txt")  and download any .zip file from the last 4 days with tons of newly registered domains
 then put the .txt file in a folder
 2. Download the python file to the same folder
 3. Run the python file in Terminal with "python3 websitefilterer.py" (check that you have python3 installed)
